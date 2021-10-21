@@ -20,7 +20,6 @@ bool missing_char_cnt(string word, int cubes_cnt, const vector<vector <char>> ma
 			if (word.length() == 1)
 			{
 				return true;
-				eesa
 
 			}
 			{
